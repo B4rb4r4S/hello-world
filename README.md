@@ -1,2 +1,6 @@
 # hello-world
-Just practicing how to create a new repository
+
+Hi people!
+
+Thhis is a test to learn how to create branches and commits.
+Wish me luck!
